@@ -1,13 +1,12 @@
 # UE-L312-2023-week-1
 
-Repository for students of UE-L312 course.
-
 ## Project Description
+This repository is created as part of the activities for the UE-L312 course. It serves as a practice ground for students to learn and apply the fundamentals of version control using Git and GitHub.
 
-This project serves as an introduction to Git and GitHub workflows, showcasing how to manage and collaborate on software projects effectively.
+Throughout the week, students will engage in various tasks such as forking repositories, managing branches, resolving merge conflicts, and contributing to projects via pull requests.
 
-## Goals
-
-- Understand basic Git commands and operations.
-- Learn how to fork, clone, and manage branches in a GitHub repository.
-- Practice creating pull requests and merging branches.
+## Objectives
+- To understand and implement the workflow of version control with Git.
+- To gain hands-on experience with GitHub by participating in collaborative project management.
+- To learn how to create and manage branches and conduct merges through both direct commits and pull requests.
+- To develop an understanding of open-source contribution protocols and etiquettes.
